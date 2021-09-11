@@ -2,7 +2,7 @@
 
 This application leverages existing libraries such as phonenumber (https://pypi.org/project/phonenumbers/), in order to have a new take on how to implement the algorithms , in an existing project for usage for validation reasons, of people's numbers. 
 
-// With the power of python the project only has 38 lines of code .... :-) enjoy
+// With the power of python the project only has 47 lines of code .... :-) enjoy
 
 ## Getting Started
 
